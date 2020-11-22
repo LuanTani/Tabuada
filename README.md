@@ -19,3 +19,11 @@ Tabuada do número: 7
 7 x 8 = 56
 7 x 9 = 63
 7 x 10 = 70
+
+**Como executar**:
+
+Acesse a pasta do projeto e digite:
+
+```
+dotnet run
+```
